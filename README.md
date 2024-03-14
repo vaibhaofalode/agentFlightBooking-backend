@@ -1,22 +1,10 @@
-# README
+## Database Table Screenshot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![Database Records](https://github.com/vaibhaofalode/agentFlightBooking-backend/assets/23246722/7abd95a0-0c7e-41b9-bfa1-a99669a3693d)
 
-Things you may want to cover:
+## Postman Response Screenshot
+![image](https://github.com/vaibhaofalode/agentFlightBooking-backend/assets/23246722/44b87b66-ee5b-4486-80f7-0f04639755c0)
 
-* Ruby version
+## Test Case Screenshot
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+![Test case screenshot](https://github.com/vaibhaofalode/agentFlightBooking-backend/assets/23246722/df2397a2-4d96-43f8-85e1-6c62c7cb10d2)
